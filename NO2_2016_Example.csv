@@ -1,4 +1,4 @@
-Date,Hour,DateTime,BOB,ARG
+Date,Hour,DateTime,Station1,Station2
 1/1/2016,1,1/1/2016 0:00,35,21
 1/1/2016,2,1/1/2016 1:00,42,34
 1/1/2016,3,1/1/2016 2:00,55,32
